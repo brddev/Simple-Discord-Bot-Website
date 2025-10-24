@@ -14,7 +14,7 @@
     "node-fetch": "^2.6.1"
   },
   "engines": {
-    "node": "14.15.3"
+    "node": "22.21.0"
   },
   "repository": {
     "url": "https://github.com/JLDENSMORE/Simple-Discord-Bot-Website.git"
